@@ -25,11 +25,10 @@ https://pythonhieu.pythonanywhere.com/
 ## Documentation & Reports
 
 - **Data in Brief Document**  
-  📄 `DS6600 Data Science Final Report.pdf`  
+  📄 [DS6600 Data Science Final Report](DS6600%20Data%20Science%20Final%20Report.pdf)
 
 - **First Project Check-In Report**  
-  📄 `DS_6600_Project_Check_In_1.pdf`  
-  *(Replace with relative path in this repository)*
+  📄 [DS_6600_Project_Check_In_1](DS_6600_Project_Check_In_1.pdf) 
 
 - **Database Schema Documentation**  
   🔗 https://dbdocs.io/brr2tu/DS-6600-Data-Science-Final-Project
